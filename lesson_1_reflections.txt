@@ -1,0 +1,16 @@
+# 	Using diff I did not have to manually go through every line the processor being faster than me went through it and told me 
+	the difference.
+
+# 	Haivng easy access to the entire history of a file helps us know when and where the file was modified and if we 
+	somehow loose the new file or do something which makes the file reduntant we will not loose our work totally 
+	and we will be able to go back to the initial/orignal file.
+
+#	The advantage of manual contorl over commits is that it is very flexible and disadvantage is that it is prone to user 
+	error.
+	The advantage of having versions automatically being saved is that user error's are prevented and disadvantage is that it 
+	may not be the way we want it.
+
+#	They show such behaviour because they are used and were built for different purposes.
+#	The command "git log" tells us when all the  differences were made and "git diff" spots for us the 
+	difference between two versions of the file.
+	
