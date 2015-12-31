@@ -1,0 +1,4 @@
+#	When we initialize a repository it a hidden file .git is made and the file inside the directory we ran the command git init 
+	becomes a repository.
+
+#	Staging area is different from the working directory and respository in a way that it is a stage where before making a 			commit we can further recheck our changes.	
