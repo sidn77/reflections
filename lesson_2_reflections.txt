@@ -2,3 +2,12 @@
 	becomes a repository.
 
 #	Staging area is different from the working directory and respository in a way that it is a stage where before making a 			commit we can further recheck our changes.	
+
+#	We can use the stage area to check that we have one commit per logical change as we haven't still made the commit when the 
+	file is still in the stageing area so it basically exists so that we can double check our modifications.
+
+# 	Git branches will help me use pre-existing code to make a new project or do modifications to a pre-existing one.
+
+#	They give the exact cofigration of our workflow.
+
+# 	By merging two branches we get our new and modified project. We represent it in a diagramtical manner to have a complete 		picture of our project.
