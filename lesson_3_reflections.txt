@@ -11,3 +11,13 @@ A.	* Forks are basically clones on Github.
 	* While cloning a repository on Github itself we use "forking.
 	* While cloning a repository on a machine from a repository (locally or from Github) we use "clones".
 	* While adding new features or playing around with a project we use "branches".
+
+Q.	What is the benefit of having a copy of the last known state of the remote stored locally?
+A.	We can work on the conflicts offline.
+
+Q.	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A.	Uhh now as i sadly donot know about any other version control methods other than manual so i will choose github.
+	And ofcourse github would be easier rather than sending frequent emails and changing the main file again and again.
+
+Q. 	When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach 		have?
+A.	When we are collaborating with other people. This approach make sures that the changes being made are not out of sync and 		donot harm the project in any manner.
